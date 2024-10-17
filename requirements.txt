@@ -1,0 +1,2 @@
+subprocess.run==0.0.8
+os-sys==2.1.4
